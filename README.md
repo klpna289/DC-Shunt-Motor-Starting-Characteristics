@@ -53,4 +53,4 @@ In this simulation, multiple breakers (switches) are used along with step inputs
 - Gained hands-on experience with Simscape Electrical components  
 
 ## Author
-Kalpna Painkra
+Kalpna Raj Painkra
